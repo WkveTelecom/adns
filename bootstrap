@@ -1,0 +1,10 @@
+#!/bin/sh
+
+
+#
+#
+#
+cd repo
+tar -czvf adns.tar.gz adns
+cd ..
+mv repo/adns.tar.gz .
